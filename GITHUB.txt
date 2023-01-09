@@ -1,3 +1,76 @@
 ddt_99mx@yahoo.com.mx
 
 Ddt_99mxTony
+
+
+
+
+Tecnologías para la Analítica e Inteligencia de Negocios
+AI2301
+23-1
+Blanca Isabel Torres Arenas
+
+
+Portada 5%
+Introducción 10%
+Infografía 70% (imagen y enlace de canva)
+Conclusiones 10%
+Bibliografía 5%
+ 
+ 
+Guía Metodológica General para la Formulación y Evaluación de Programas y Proyectos de Inversión Pública (2017) ,Secretaria de Finanzas Honduras , 
+
+El Ciclo de Vida de un Proyecto de Inversión (2017),Karla Bayly, https://idesaa.edu.mx/blog/el-ciclo-de-vida-de-un-proyecto-de-inversion/#:~:text=El%20Ciclo%20de%20Vida%20del,establecimiento%20de%20prioridades%2C%20hasta%20la
+
+Proyectos de Inversión (2020), Dr. Blanca Isabel Torres Arenas , Presentación.
+
+Decisiones sobre hardware para la analítica e inteligencia de negocios.(2020),Dr. Blanca Isabel Torres Arenas ,MS PowerPoint.
+
+Decisiones sobre software para la analítica e inteligencia de negocios.(2020),Dr. Blanca Isabel Torres Arenas ,MS PowerPoint.
+
+
+
+Tecnología Multi-Tier Caching
+
+
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://help.qlik.com/es-ES/sense/February2021/pdf/Requisitos%20del%20sistema%20para%20Qlik%20Sense.pdf
+
+https://www.ibm.com/docs/es/iis/11.5?topic=checklists-basic-installation-checklist
+
+https://www.informatica.com/mx/platform.html?utm_source=google&utm_medium=paid_search&utm_campaign=brand&utm_country=mx&utm_creative=idmc_platform&utm_journey=brand&utm_cost=cpc&utm_term=informatica&&_bt=594804703907&_bk=informatica&_bm=p&_bn=g&_bg=123702357562&gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke6NTlbqoGxzP6NC2kquC6OYlgURM81ngaeMiMdtrz27oPwgEJLuQhsaApUnEALw_wcB&gclsrc=aw.ds
+
+https://help.tableau.com/current/server/es-es/server_hardware_min.htm
+
+https://doc.dataiku.com/dss/latest/installation/custom/requirements.html
+
+https://docs.oracle.com/cd/E87217_01/DVASE/c3_hardware.htm#DVASE139
+
+https://www.solucioneshp.com.mx/hardware/servidores/servidores-de-rack?gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke5xvOyj1oq9dj7hGjn-zqx0Eeznkf348_VdkrNCBMADDtnlN44ZkFEaApCOEALw_wcB
+
+https://www.profesionalreview.com/hardware/mejores-discos-duros/#:~:text=Donde%20Seagate%2C%20Western%20Digital%2C%20Samsung,fiables%20marcas%20de%20discos%20duros.
+
+https://learn.microsoft.com/es-es/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server-2019?view=sql-server-ver16
+
+https://www.dell.com/es-mx/dt/servers/modular-infrastructure/index.htm#tab0=0
+
+https://www.ibm.com/mx-es/servers?utm_content=SRCWW&p1=Search&p4=43700058628014567&p5=e&gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke7mOco8o4br42mNhZNJXpt5Z2CZ_TMbVz6gUeVqw-fMVUsRG4g3mnwaAhCsEALw_wcB&gclsrc=aw.ds
+
+https://datamanagement.es/2020/04/06/instalacion-de-sql-server-integration-services-ssis/
+
+
+287,127.8518
+4,304.98
+
+TECNOLOGÍAS PARA LA ANALÍTICA E INTELIGENCIA DE NEGOCIOS,(2022),MTIA. Claudia González Ruvalcaba
+
+Seis errores comunes en el análisis de datos en las empresas,(2019), Carlos Cordero Pérez,https://www.elfinancierocr.com/tecnologia/seis-errores-comunes-en-el-analisis-de-datos-en/DLHAKABXYVHSNFNZRUMNKGEIDQ/story/
+
+Servidores IBM® z16,(2022),IBM®,chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ibm.com/downloads/cas/OXM4KQKR
+
+Servidores Dell, (2022),Dell®, https://www.dell.com/mx/empresas/p/poweredge-m630/pd
+
+IBM DataStage Enterprise Plus,(2022), IBM®, https://www.ibm.com/mx-es/products/datastage/pricing
+
+IBM® DB2 DWH(2022),IBM®, https://www.ibm.com/mx-es/products/db2/warehouse
+
+Comparativa Gartner(2022),https://www.bmc.com/blogs/gartner-magic-quadrant-data-integration-tools/ , https://ingmmurillo-dwh-bi.blogspot.com/2014/03/cuadrante-magico-de-gartner-para.html
